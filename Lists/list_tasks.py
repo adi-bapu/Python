@@ -40,5 +40,6 @@ veggies = [
     "Carrot (Gajar)",
     "Tomato (Tamatar)"
 ]
-veggies.sort()
-print(veggies)
+
+for i in veggies:
+    print(i[i.find('(')+1:i.find(')')])
