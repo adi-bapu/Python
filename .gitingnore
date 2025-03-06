@@ -1,4 +1,3 @@
-.pdf/
-.gitingnore/
-.DS_Store/
-Icon/
+/.gitingnore
+/.DS_Store/
+/Icon/
