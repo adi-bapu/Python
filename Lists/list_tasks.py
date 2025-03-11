@@ -173,3 +173,5 @@ veggies = [
 # Check if any vegetable names (English or Hindi) are anagrams of each other and print the pairs.
 # 15. Generate All Possible Slices
 # For each vegetable name, generate and print all possible contiguous substrings (slices).
+
+# SOMETHING JUST!!
